@@ -10,4 +10,4 @@ This is the PyTorch implementation of the extreme weather-degraded image restora
 
 To make the regression model perform better, it is usually required that the cross-modal video streams appear in pairs. The following links are the unaligned data and partially aligned test data of WeatherInfrared. The aligned data and implementation code will be publicly available after the manuscript is accepted. (16.3 GB) 
 
-unaligned videos: https://pan.baidu.com/s/1ADCl2W3_n8KdZWJh6iGaiQ code: tcg2 
+unaligned videos: https://pan.baidu.com/s/1ADCl2W3_n8KdZWJh6iGaiQ tcg2 (code) 
