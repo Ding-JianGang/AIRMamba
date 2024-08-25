@@ -8,6 +8,6 @@ This is the PyTorch implementation of the extreme weather-degraded image restora
     GPU memory ≥ 24G
 ## Aligned and unaligned videos
 
-To make the regression model perform better, it is usually required that the cross-modal video streams appear in pairs. The following links are the unaligned data and partially aligned test data of WeatherInfrared. The aligned data and implementation code will be publicly available after the manuscript is accepted. (16.3 GB)
+To make the regression model perform better, it is usually required that the cross-modal video streams appear in pairs. The following links are the unaligned data and partially aligned test data of WeatherInfrared. __The aligned data and implementation code will be publicly available after the manuscript is accepted. (16.3 GB) __
 
 unaligned videos:
